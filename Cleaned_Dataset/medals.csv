@@ -1,0 +1,93 @@
+rank,country,Gold Medal,Silver Medal,Bronze Medal,Total,rank by total
+1,United States,40,44,42,126,1
+1,China,40,27,24,91,2
+3,Japan,20,12,13,45,6
+4,Australia,18,19,16,53,5
+5,France,16,26,22,64,4
+6,Netherlands,15,7,12,34,8
+7,Great Britain,14,22,29,65,3
+8,Korea,13,9,10,32,10
+9,Italy,12,13,15,40,7
+9,Germany,12,13,8,33,9
+11,New Zealand,10,7,3,20,12
+12,Canada,9,7,11,27,11
+13,Uzbekistan,8,2,3,13,16
+14,Hungary,6,7,6,19,14
+15,Spain,5,4,9,18,15
+16,Sweden,4,4,3,11,19
+16,Kenya,4,2,5,11,19
+16,Norway,4,1,3,8,26
+16,Ireland,4,0,3,7,30
+20,Brazil,3,7,10,20,12
+20,IR Iran,3,6,3,12,17
+20,Ukraine,3,5,4,12,17
+20,Romania,3,4,2,9,23
+20,Georgia,3,3,1,7,30
+20,Belgium,3,1,6,10,21
+20,Bulgaria,3,1,3,7,30
+20,Serbia,3,1,1,5,44
+20,Czechia,3,0,2,5,44
+29,Denmark,2,2,5,9,23
+29,Azerbaijan,2,2,3,7,30
+29,Croatia,2,2,3,7,30
+29,Cuba,2,1,6,9,23
+29,Bahrain,2,1,1,4,50
+29,Slovenia,2,1,0,3,59
+29,Chinese Taipei,2,0,5,7,30
+29,Austria,2,0,3,5,44
+29,"Hong Kong, China",2,0,2,4,50
+29,Philippines,2,0,2,4,50
+29,Algeria,2,0,1,3,59
+29,Indonesia,2,0,0,2,66
+41,Israel,1,5,1,7,30
+41,Poland,1,4,5,10,21
+41,Kazakhstan,1,3,3,7,30
+41,Jamaica,1,3,2,6,38
+41,South Africa,1,3,2,6,38
+41,Thailand,1,3,2,6,38
+41,AIN,1,3,1,5,44
+41,Ethiopia,1,3,0,4,50
+41,Switzerland,1,2,5,8,26
+41,Ecuador,1,2,2,5,44
+41,Portugal,1,2,1,4,50
+41,Greece,1,1,6,8,26
+41,Argentina,1,1,1,3,59
+41,Egypt,1,1,1,3,59
+41,Tunisia,1,1,1,3,59
+41,Botswana,1,1,0,2,66
+41,Chile,1,1,0,2,66
+41,Saint Lucia,1,1,0,2,66
+41,Uganda,1,1,0,2,66
+41,Dominican Republic,1,0,2,3,59
+41,Guatemala,1,0,1,2,66
+41,Morocco,1,0,1,2,66
+41,Dominica,1,0,0,1,78
+41,Pakistan,1,0,0,1,78
+65,Türkiye,0,3,5,8,26
+65,Mexico,0,3,2,5,44
+65,Armenia,0,3,1,4,50
+65,Colombia,0,3,1,4,50
+65,DPR Korea,0,2,4,6,38
+65,Kyrgyzstan,0,2,4,6,38
+65,Lithuania,0,2,2,4,50
+65,India,0,1,5,6,38
+65,Republic of Moldova,0,1,3,4,50
+65,Kosovo,0,1,1,2,66
+65,Cyprus,0,1,0,1,78
+65,Fiji,0,1,0,1,78
+65,Jordan,0,1,0,1,78
+65,Mongolia,0,1,0,1,78
+65,Panama,0,1,0,1,78
+65,Tajikistan,0,0,3,3,59
+65,Albania,0,0,2,2,66
+65,Grenada,0,0,2,2,66
+65,Malaysia,0,0,2,2,66
+65,Puerto Rico,0,0,2,2,66
+65,Cabo Verde,0,0,1,1,78
+65,Côte d'Ivoire,0,0,1,1,78
+65,EOR,0,0,1,1,78
+65,Peru,0,0,1,1,78
+65,Qatar,0,0,1,1,78
+65,Singapore,0,0,1,1,78
+65,Slovakia,0,0,1,1,78
+65,Zambia,0,0,1,1,78
